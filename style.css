@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+* {
+    font-family: 'Courgette', cursive;
+}
+
+a:link {color: blueviolet;}
+a:visited {color: purple;}
+a:hover {color: pink;}
+a:active {color: black;}
+
+body {background-color: lavenderblush;}
+
+span {
+    color: rgb(245, 6, 245);
+    text-decoration: underline;
+}
+
+.help-list {
+    color: rgb(90, 31, 150);
+    font-size: 20px;
+}
+
+header  {
+    text-align: center;
+    background-color: rgb(211, 160, 240);
+}
+
+header h3 {
+    letter-spacing: 6px;
+    word-spacing: 30px;
+}
+
+#Rescue-Organizations {
+    list-style-type: none;
+    background-color: rgb(247, 212, 247);
+}
+
+footer {
+    text-align: center;
+    background-color: rgba(211, 160, 240, .5);
+    color: rebeccapurple;
+}
+
+h1, h2, h3 {
+    color: rgb(90, 31, 150);
+}
+
+p {
+    color: rgb(90, 31, 150);
+    font-size: 20px;
+
+    font-weight: 400;
+}
